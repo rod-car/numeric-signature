@@ -1,0 +1,54 @@
+{
+  "name": "@visionary-studio/numeric-signature",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A reusable digital signature pad component for Vue.js and vanilla JavaScript",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "build-lib": "vite build --mode lib",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit",
+    "test": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "signature",
+    "digital-signature",
+    "canvas",
+    "vue",
+    "typescript",
+    "handwriting"
+  ],
+  "author": "Visionary Studio",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.30",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "@vue/runtime-core": "^3.5.27",
+    "@vue/test-utils": "^2.4.0",
+    "@vue/tsconfig": "^0.8.1",
+    "autoprefixer": "^10.4.16",
+    "happy-dom": "^12.0.0",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.9.3",
+    "vite": "^5.0.0",
+    "vite-plugin-dts": "^3.7.0",
+    "vitest": "^1.0.0",
+    "vue": "^3.5.27",
+    "vue-tsc": "^3.2.2"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  }
+}
