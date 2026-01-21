@@ -422,15 +422,13 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🤝 Support
 
-- 📧 Email: support@visionary-studio.com
-- 🐛 Issues: [GitHub Issues](https://github.com/visionary-studio/numeric-signature/issues)
-- 📖 Documentation: [Full Docs](https://numeric-signature.visionary-studio.com)
+- 📧 Email: contact.visionary.devs@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/rod-car/numeric-signature/issues)
 
 ## 🔗 Related Projects
 
 - [@visionary-studio/js-toolbox](https://github.com/visionary-studio/js-toolbox) - JavaScript utility library
-- [@visionary-studio/form-builder](https://github.com/visionary-studio/form-builder) - Dynamic form builder
 
 ---
 
-Built with ❤️ by [Visionary Studio](https://visionary-studio.com)
+Built with ❤️ by [Visionary Studio](https://visionary-devs.mg)
