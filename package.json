@@ -1,6 +1,6 @@
 {
   "name": "@visionary-studio/numeric-signature",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A reusable digital signature pad component for Vue.js and vanilla JavaScript",
   "type": "module",
