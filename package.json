@@ -4,6 +4,14 @@
   "private": false,
   "description": "A reusable digital signature pad component for Vue.js and vanilla JavaScript",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rod-car/numeric-signature.git"
+  },
+  "homepage": "https://github.com/rod-car/numeric-signature#readme",
+  "bugs": {
+    "url": "https://github.com/rod-car/numeric-signature/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
